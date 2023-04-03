@@ -1,9 +1,5 @@
 ![Header](images/github-header-image.png)
 
-<p align="right"> <img src="images//what-is-cryptography-0-1646462936.gif" alt="seyni-sn" width="500" height="300" style="border-radius: 8px" /> </p>
-
-
-
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Cryptography, C, C++, Python**
