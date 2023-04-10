@@ -1,6 +1,6 @@
-![Header](images/github-header-image7.png)
+![Header](images/github-header-image00.png)
 
-<h3 align="center">I am a Cryptography Engineer, with a solid background in mathematics and computer science. Besides that, I also have good problem solving skills.</h3>
+<h3 align="center">I am a Cryptography Engineer, with a solid background in mathematics and computer science. Able to read, and understand scientific papers. To design, and implement cryptographic schemes. Besides that, I also have good problem solving skills.</h3>
 
  <br>
  
