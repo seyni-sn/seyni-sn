@@ -22,7 +22,7 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
 - 🎓 I've studied Applied Mathematics & Cryptology at [UGB](https://www.ugb.sn/) in Saint-Louis 🇸🇳.
 - 🎓 I've studied Applied Mathematics & Computer Science at [UGB](https://www.ugb.sn/) in Saint-Louis 🇸🇳.
 <!-- - 🏠 I'm living in Bourges 🇫🇷. -->
-- I'm also passionate about Sport and Technology in general.
+- I'm also passionate about Sport :martial_arts_uniform: :biking_man: and Technology :computer: in general.
 
 ---
 
