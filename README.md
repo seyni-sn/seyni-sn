@@ -8,7 +8,7 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a target="_blank" href="mailto:kaneseyni.sn@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110" height="28.2"/>
     </a>
 </p>
 
