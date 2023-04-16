@@ -52,6 +52,17 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
 </p>
 
 
+
+#### :triangular_ruler: Mathematic
+
+<p>
+    <img alt="SageMath" src="./images/sage-logo-2018.svg" width="120" height="28.6"/>
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img alt="Matlab" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="35"/>
+</p>
+
+
 #### :card_file_box: Database
 
 <p>
