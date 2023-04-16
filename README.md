@@ -53,7 +53,7 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
 
 
 
-#### :triangular_ruler: Mathematic
+#### :triangular_ruler: Mathematics
 
 <p>
     <img alt="SageMath" src="./images/sage-logo-2018.svg" width="120" height="28.6"/>
