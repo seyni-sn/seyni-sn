@@ -96,6 +96,6 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
 ### 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=seyni-sn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seyni-sn&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyni-sn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyni-sn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
