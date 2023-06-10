@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Seyni KANE <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30></h1>
 <h3 align="center">Cryptography Engineer</h3>
 
-I am a Cryptography Engineer, with a solid background in mathematics and computer science. Able to read, and understand scientific papers. To design, and implement cryptographic schemes. Besides that, I also have good problem solving skills.
+I am a Cryptography Engineer, with a solid background in mathematics and computer science. I have a strong passion for research and development, especially in cryptography and its applications.
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/seyni-kane-sn/">
