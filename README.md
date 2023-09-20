@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Seyni KANE <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30></h1>
+<h1 align="center">Hi, I'm Seyni KANE <img src = "src="https://toppng.com/uploads/preview/black-hand-waving-emoji-11549486501lviocja1ln.png" width = 30></h1>
 <h3 align="center">Cryptography Engineer</h3>
+
 
 I am a Cryptography Engineer, with a solid background in mathematics and computer science. I have a strong passion for research and development, especially in cryptography and its applications.
 
