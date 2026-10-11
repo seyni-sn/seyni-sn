@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Seyni KANE <img src = "./images/waving-hand.gif" width = 35></h1>
-<h3 align="center">Cryptography Engineer</h3>
+<h3 align="center">Applied Cryptography Engineer</h3>
 
-I am a Cryptography Engineer, with a solid background in mathematics and computer science. I have a strong passion for research and development, especially in cryptography and its applications.
+Applied Cryptographer (PhD candidate) | Anonymous credentials, zero-knowledge proofs, secure elements | BBS# and issuer hiding for EUDI Wallets | C, C++, Rust.
+
+Interested in post-quantum cryptography, zero-knowledge systems, and constant-time implementations.
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/seyni-kane-sn/">
@@ -17,26 +19,25 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
 ### :man_technologist: About Me 
 
 - :brain: I’m currently learning **Rust**.
-- 💼 I'm currently doing an internship on Searchable Encryption & Graph Encryption at [IRT-Systemx](https://www.irt-systemx.fr/) in Palaiseau 🇫🇷.
+- 💼 I'm currently doing a PhD on Zero-knowledge proofs and anonymous credentials for digital identity wallets at [Orange-Innoation](https://www.orange.com/en).
+- 💼 I've done an internship on Searchable Encryption & Graph Encryption at [IRT-Systemx](https://www.irt-systemx.fr/) in Palaiseau 🇫🇷.
 - 🎓 I've studied Applied Mathematics & Cryptology at [Paris 8](https://www.univ-paris8.fr/) in Saint-Denis  🇫🇷.
 - 🎓 I've studied Applied Mathematics & Cryptology at [UGB](https://www.ugb.sn/) in Saint-Louis 🇸🇳.
 - 🎓 I've studied Applied Mathematics & Computer Science at [UGB](https://www.ugb.sn/) in Saint-Louis 🇸🇳.
 <!-- - 🏠 I'm living in Bourges 🇫🇷. -->
-- I'm also passionate about Sport :martial_arts_uniform: :biking_man: and Technology :computer: in general.
 
 ---
 
 ### 🛠 Tech Stack
 
-#### :man_technologist: Programming Languages
+#### :man_technologist: Languages
 
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+        <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
   <!-- -  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>-->
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -49,7 +50,6 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
 <p>
     <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-    <img alt="DjangoREST" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/
 </p>
 
 
@@ -68,7 +68,6 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
 
 <p>
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
 #### :wrench: Tools
@@ -78,7 +77,6 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
     <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-    <img alt="PyPI" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
 </p>
 
 #### 💻 OS
@@ -86,7 +84,6 @@ I am a Cryptography Engineer, with a solid background in mathematics and compute
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
  
 
