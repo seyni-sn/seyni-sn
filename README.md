@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Seyni KANE <img src = "./images/waving-hand.gif" width = 35></h1>
 <h3 align="center">Applied Cryptography Engineer</h3>
 
-Applied Cryptographer (PhD candidate) | Anonymous credentials, zero-knowledge proofs, secure elements | BBS# and issuer hiding for EUDI Wallets | C, C++, Rust.
-
-Interested in post-quantum cryptography, zero-knowledge systems, and constant-time implementations.
+Applied cryptographer · PhD candidate @ Orange · Anonymous credentials, ZKP, PQC, secure hardware, BBS# and issuer hiding for EUDI Wallets · C/C++
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/seyni-kane-sn/">
