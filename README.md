@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Seyni KANE <img src = "./images/waving-hand.gif" width = 35></h1>
 <h3 align="center">Applied Cryptography Engineer</h3>
 
-Applied cryptographer · PhD candidate @ Orange · Anonymous credentials, ZKP, PQC, secure hardware, BBS# and issuer hiding for EUDI Wallets · C/C++
+Applied cryptographer working across the full stack: designing protocols, proving their security, finding attacks, and implementing cryptography on constrained and secure hardware.
+
+PhD candidate at **Orange Innovation** and **Institut Polytechnique de Paris**, working on privacy-preserving digital identity for the EU Digital Identity Wallet.
+
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/seyni-kane-sn/">
